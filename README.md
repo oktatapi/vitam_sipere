@@ -1,6 +1,6 @@
-# sipere expressapi template
+# Vitam by sipere
 
-Express based REST API template.
+Vitam Express based REST API created with Sipere.
 
 Website:
 
