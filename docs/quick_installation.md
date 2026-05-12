@@ -21,3 +21,9 @@ node op key:generate
 node op migrate
 node op db:seed
 ```
+
+## Start application
+
+```bash
+npm run dev
+```
